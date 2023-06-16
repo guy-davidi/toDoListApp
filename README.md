@@ -35,3 +35,21 @@ To run the ToDo List App locally on your machine, follow these steps:
    ```
    node server.js
    ```
+   
+ ## Usage
+- Type a task title and description in the input fields and click "Add Task" 
+to add it to the list.
+- Click the checkbox next to a task to mark it as completed.
+- Click the "Remove" button to delete a task from the list.
+
+## Contributing
+Contributions are welcome!
+If you want to contribute to this project, please follow these steps:
+- Fork the repository.
+- Create a new branch: git checkout -b feature/your-feature.
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature/your-feature.
+- Submit a pull request.
+
+## License
+This project is licensed under the MIT License.
