@@ -21,17 +21,19 @@ The ToDo List App is a simple application that allows users to create and manage
 ## Installation
 
 To run the ToDo List App locally on your machine, follow these steps:
-
-   1. Clone the repository:
-
+   1. Download Nodejs
+   ```
+   https://nodejs.org/en
+   ```
+   2. Clone the repository:
    ```
    git clone https://github.com/guy-davidi/toDoListApp.git
    ```
-   2. Change dir
+   3. Change dir
    ```
    cd toDoListApp
    ```
-   3. Run server
+   4. Run server
    ```
    node server.js
    ```
