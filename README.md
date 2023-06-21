@@ -48,9 +48,9 @@ to add it to the list.
 Contributions are welcome!
 If you want to contribute to this project, please follow these steps:
 - Fork the repository.
-- Create a new branch: git checkout -b feature/your-feature.
-- Commit your changes: git commit -m 'Add some feature'.
-- Push to the branch: git push origin feature/your-feature.
+- Create a new branch: ```git checkout -b feature/your-feature```.
+- Commit your changes: ```git commit -m 'Add some feature'``.
+- Push to the branch: ```git push origin feature/your-feature```.
 - Submit a pull request.
 
 ## License
